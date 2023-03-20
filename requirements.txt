@@ -5,4 +5,9 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
+Flask
+
+# Comment -e . in order to prevent building package again and again.
+# pip install -r requirements.txt
 -e .
